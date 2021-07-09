@@ -37,9 +37,10 @@
   display: flex;
   align-items: center;
 }
-.Github-icon {
-  zoom: 0.9;
+.Contact a {
+  padding: 0 10px;
 }
 .Contact-icon {
   width: 50px;
+  border-radius: 50%;
 }

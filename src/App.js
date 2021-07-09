@@ -27,7 +27,7 @@ function App() {
       </div>
       <div className="Contact">
         <a href="https://github.com/EnkhturBaina" target="_blank">
-          <img src={github} alt="logo" className="Contact-icon Github-icon" />
+          <img src={github} alt="logo" className="Contact-icon" />
         </a>
         <a href="https://www.instagram.com/_enkhtur/" target="_blank">
           <img src={instagram} alt="logo" className="Contact-icon" />
