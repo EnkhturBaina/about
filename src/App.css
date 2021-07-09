@@ -18,21 +18,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 .About-container {
-  padding: 0px 50px;
+  width: 40%;
 }
 .Typewriter-div {
   padding: 20px;
@@ -40,4 +27,19 @@
 .custom-lang {
   font-weight: bold;
   text-decoration: underline;
+}
+@media only screen and (max-width: 600px) {
+  .About-container {
+    width: 70%;
+  }
+}
+.Contact {
+  display: flex;
+  align-items: center;
+}
+.Github-icon {
+  zoom: 0.9;
+}
+.Contact-icon {
+  width: 50px;
 }
