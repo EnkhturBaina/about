@@ -1,19 +1,14 @@
 .App {
   text-align: center;
+  font-family: "Nunito", sans-serif;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  height: 15vmin;
+  border-radius: 50%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+.App-container {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -35,4 +30,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.About-container {
+  padding: 0px 50px;
+}
+.Typewriter-div {
+  padding: 20px;
+}
+.custom-lang {
+  font-weight: bold;
+  text-decoration: underline;
 }
