@@ -1,0 +1,53 @@
+{
+    "book":[
+       {
+          "id":"1",
+          "title":"Digital Credit",
+          "body":"Smart Financial Solution",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture3.PNG?alt=media&token=54b3d208-31e6-45c8-9f36-cca00e431098",
+          "language":""
+       },
+       {
+          "id":"2",
+          "title":"Zeelme",
+          "body":"Send the loan application you need to many banks and NBFIs online",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture4.PNG?alt=media&token=789ed6be-f3a7-43e3-bf67-7f38aa6de262",
+          "language":""
+       },
+       {
+          "id":"3",
+          "title":"SMEFund",
+          "body":"Apply a soft, long-term loan application from the SMEFund",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture.jpg?alt=media&token=11593d39-ec56-4b5f-9962-b91487790a5a",
+          "language":"Veritech ERP"
+       },
+       {
+          "id":"4",
+          "title":"Xac Leasing",
+          "body":"Smart Financial Solution",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture3.PNG?alt=media&token=54b3d208-31e6-45c8-9f36-cca00e431098",
+          "language":"Veritech ERP"
+       },
+       {
+          "id":"5",
+          "title":"SMEFund Core System",
+          "body":"Smart Financial Solution",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture2.jpg?alt=media&token=3a028321-d84e-4951-984f-496842c4f7e9",
+          "language":"Veritech ERP"
+       },
+       {
+          "id":"6",
+          "title":"0001 mn",
+          "body":"car leasing platform with online leasing, and if you want to sell or buy a car, you can use the car leasing solution online from the place where you go to the car market. It is also possible to determine the right to a loan in advance.",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Capture5.jpg?alt=media&token=bb890e8a-6d46-480b-823c-919bc203a425",
+          "language":""
+       },
+       {
+          "id":"7",
+          "title":"Digital Credit Mobile App",
+          "body":"Send the loan application you need to many banks and NBFIs online",
+          "img":"https://firebasestorage.googleapis.com/v0/b/resumepage-51144.appspot.com/o/Untitled.png?alt=media&token=afadd285-a69c-43bb-aa1c-5651abf9f0cd",
+          "language":""
+       }
+    ]
+ }  
