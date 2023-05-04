@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Enkhtur Enkhbold - Mobile & Front End Developer</title>
     <link rel="icon" href="img/logo.svg">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="stylesheet" href="scss/style.scss">
 </head>
@@ -157,112 +159,11 @@
                         <a href="#footer" class="no-select"><b>repositories</b></a>.
                     </p>
                 </div>
-                <div class="work-details">
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://github.com/JeremyL95/music-player" target="_blank"><i
-                                        class="fab fa-github"></i></a>
-
-                                <a href="https://jeremyl95.github.io/music-player/" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>Music Player</h2>
-                        <p>A simple music player with shuffle, loop and play functionality.</p>
-                        <ul class="tech-stack">
-                            <li>HTML</li>
-                            <li>SCSS</li>
-                            <li>JavaScript</li>
-                        </ul>
-                    </div>
-
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://github.com/JeremyL95/weather-pro" target="_blank"><i
-                                        class="fab fa-github"></i></a>
-
-                                <a href="https://my-weather-pro.herokuapp.com/" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>Weather Pro</h2>
-                        <p>A simple weather app built using SCSS, JavaScript and Express.</p>
-                        <ul class="tech-stack">
-                            <li>SCSS</li>
-                            <li>JavaScript</li>
-                            <li>Weather API</li>
-                        </ul>
-                    </div>
-
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://github.com/JeremyL95/crud-tick-tick" target="_blank"><i
-                                        class="fab fa-github"></i></a>
-                                <a href="https://crud-ticktick.netlify.app" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>Tick Tick</h2>
-                        <p>A simple to-do list to stay organized and manage tasks effectively.</p>
-                        <ul class="tech-stack">
-                            <li>SCSS</li>
-                            <li>JavaScript</li>
-                            <li>Web Storage API</li>
-                        </ul>
-                    </div>
-
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://github.com/JeremyL95/simon-game" target="_blank"><i
-                                        class="fab fa-github"></i></a>
-                                <a href="https://simon-game-classic.netlify.app" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>Simon</h2>
-                        <p>Simon is an electronic game of short-term memory skill.</p>
-                        <ul class="tech-stack">
-                            <li>HTML</li>
-                            <li>SCSS</li>
-                            <li>jQuery</li>
-                        </ul>
-                    </div>
-
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://techquickie-bootstrap.netlify.app" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>Techquickie</h2>
-                        <p>A website project built using Bootstrap 5 framework.</p>
-                        <ul class="tech-stack">
-                            <li>SCSS</li>
-                            <li>Bootstrap</li>
-                        </ul>
-                    </div>
-
-                    <div class="card">
-                        <div class="icon"><i class="far fa-folder fa-2x"></i>
-                            <div class="link">
-                                <a href="https://github.com/JeremyL95/my-portfolio" target="_blank"><i
-                                        class="fab fa-github"></i></a>
-                                <a href="https://jeremyerikleong.com" target="_blank"><i
-                                        class="fas fa-external-link-alt"></i></a>
-                            </div>
-                        </div>
-                        <h2>My Portfolio</h2>
-                        <p>My portfolio website built using SCSS and Vanilla JavaScript.</p>
-                        <ul class="tech-stack">
-                            <li>HTML</li>
-                            <li>SCSS</li>
-                            <li>JavaScript</li>
-                        </ul>
+                <div class="slider-container">
+                    <div class="slider slider-nav">
+                        <div><img src="img/autohuleg.png" alt="autohuleg"></div>
+                        <div><img src="img/duureg.png" alt="duureg"></div>
+                        <div><img src="img/hospital.png" alt="hospital"></div>
                     </div>
                 </div>
             </div>
@@ -285,7 +186,48 @@
         </footer>
     </main>
 
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.4.1/jquery-migrate.min.js" ></script>
     <script src="js/script.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.slider-nav').slick({
+                dots: true,
+                infinite: true,
+                autoplay:true,
+                autoplaySpeed: 2000,
+                speed: 500,
+                slidesToShow: 4,
+                slidesToScroll: 4,
+                responsive: [
+                    {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                        infinite: true,
+                        dots: true
+                    }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
+                    }
+                ]
+            });
+        });
+      </script>
 </body>
 
 </html>
