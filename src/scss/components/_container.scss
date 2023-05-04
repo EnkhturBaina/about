@@ -1,0 +1,54 @@
+@use "../abstracts" as *;
+@use "../util" as *;
+
+.container {
+    @include flexCenter(flex, center, center, column);
+    min-height: 100vh;
+    width: 100%;
+    padding: 2em;
+
+    @include breakpoint(medium) {
+        padding: 4em;
+    }
+
+    @include breakpoint(xlarge) {
+        max-width: 1200px;
+        margin-inline: auto;
+    }
+
+    .section-title {
+        margin-block: 0.625em 1.875em;
+        color: var(--titleColor);
+
+        @include breakpoint(medium) {
+            font-size: 2em;
+        }
+    }
+
+    .section-paragraph {
+        width: 100%;
+        margin-bottom: 1em;
+        color: var(--textColor);
+
+        @include breakpoint(medium) {
+            font-size: 1.25em;
+        }
+    }
+
+    img {
+        @include widthHeight(100%, 100%);
+        object-fit: cover;
+    }
+}
+
+.reveal {
+    position: relative;
+    transform: translateY(120px);
+    opacity: 0;
+    transition: all 2s ease;
+
+    &.active {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

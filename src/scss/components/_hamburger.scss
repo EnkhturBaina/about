@@ -1,0 +1,50 @@
+@use "../abstracts" as *;
+@use "../util" as *;
+
+#hamburger {
+    @include widthHeight(3em, 4em);
+    z-index: 99;
+    position: relative;
+    padding: 1em 0.6em;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+
+    @include breakpoint(large) {
+        display: none;
+    }
+
+    > span {
+        @include widthHeight(30px, 2px);
+        display: block;
+        background-color: var(--subtitleColor);
+        border-radius: 15px;
+        transition: all 0.3s ease-in-out;
+
+        &:not(:last-child) {
+            margin-bottom: 0.5em;
+
+            &:nth-child(2) {
+                width: 1.375em;
+            }
+        }
+    }
+}
+
+#hamburger.active {
+    transition-delay: 0.2s;
+    transform: rotate(45deg);
+    > span {
+        &:nth-child(2) {
+            transform: translateX(-10px);
+            opacity: 0;
+        }
+        &:nth-child(1) {
+            transition-delay: 0.1s;
+            transform: translateY(10px) rotate(45deg);
+        }
+        &:nth-child(3) {
+            transition-delay: 0.1s;
+            transform: translateY(-10px) rotate(-45deg);
+        }
+    }
+}

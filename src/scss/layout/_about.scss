@@ -1,0 +1,64 @@
+@use "../abstracts" as *;
+@use "../util" as *;
+
+.about {
+    @include breakpoint(medium) {
+        flex-direction: row;
+    }
+
+    .col-left {
+        width: 100%;
+
+        ul {
+            list-style-type: none;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(140px, 200px));
+            gap: 0 0.625em;
+            color: var(--textColor);
+            font-size: 0.8125em;
+
+            li {
+                margin: 1em 1em 0 0;
+
+                &::before {
+                    content: "▹";
+                    color: var(--subtitleColor);
+                    padding-right: 0.5em;
+                }
+            }
+        }
+    }
+
+    .col-right {
+        margin-block: 3em;
+        @include widthHeight(200px, 200px);
+
+        @include breakpoint(medium) {
+            @include widthHeight(400px, 400px);
+            padding: 2em;
+        }
+
+        .about-image {
+            position: relative;
+
+            @include breakpoint(medium) {
+                top: 120px;
+            }
+
+            &::after {
+                content: " ";
+                position: absolute;
+                left: 20px;
+                top: 20px;
+                @include widthHeight(100%, 100%);
+                border: 3px solid var(--subtitleColor);
+                z-index: -1;
+            }
+
+            &::after,
+            img {
+                border-radius: 5px;
+            }
+        }
+    }
+}

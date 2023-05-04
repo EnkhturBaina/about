@@ -1,0 +1,28 @@
+button {
+    padding: 1.25em 1.75em;
+    margin-top: 1em;
+    background-color: var(--bgColor);
+    color: var(--subtitleColor);
+    border: 2px solid var(--subtitleColor);
+    border-radius: 0.3em;
+    font-weight: 700;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+    a {
+        color: var(--subtitleColor);
+    }
+
+    &:hover {
+        background-color: var(--subtitleColor);
+        color: var(--bgColor);
+
+        a {
+            color: var(--bgColor);
+        }
+    }
+}
+
+.btn-resume {
+    margin-block: 3em;
+}

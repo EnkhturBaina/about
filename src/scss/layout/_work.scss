@@ -1,0 +1,97 @@
+@use "../abstracts" as *;
+@use "../util" as *;
+
+.work {
+    padding: 0;
+
+    .work-info {
+        padding: 2em 2em 0;
+
+        @include breakpoint(medium) {
+            padding: 3em 4em 0;
+        }
+
+        a {
+            color: var(--subtitleColor);
+        }
+    }
+
+    .work-details {
+        display: grid;
+        padding: 0 1em 2em 1em;
+
+        @include breakpoint(medium) {
+            padding-inline: 2em;
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @include breakpoint(large) {
+            padding-inline: 3em;
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        .card {
+            padding: 2em 1.5em;
+            border-radius: 5px;
+            margin: 0.75em;
+            background-color: rgba(#313435, 35%);
+            transform: translateY(0);
+            transition: transform 0.3s ease;
+
+            .icon {
+                @include flexCenter(flex, space-between, center, row);
+                width: 100%;
+                color: var(--subtitleColor);
+                margin-bottom: 1em;
+
+                .link a {
+                    color: var(--textColor);
+
+                    &:hover {
+                        color: var(--subtitleColor);
+                    }
+
+                    i {
+                        padding: 1em 0.5em;
+                        font-size: 1.25em;
+                    }
+                }
+
+                @include breakpoint(medium) {
+                    font-size: 1.25em;
+                }
+            }
+
+            h2 {
+                font-size: 1.25em;
+                color: var(--titleColor);
+            }
+
+            p {
+                color: var(--textColor);
+                font-size: 1em;
+                line-height: 1.5;
+                margin: 1em 0;
+            }
+
+            .tech-stack {
+                color: var(--detailsColor);
+                font-size: 0.75em;
+                display: flex;
+                flex-wrap: wrap;
+                list-style-type: none;
+
+                li {
+                    margin-right: 1em;
+                }
+            }
+
+            &:hover {
+                transform: translateY(-5px);
+                h2 {
+                    color: var(--subtitleColor);
+                }
+            }
+        }
+    }
+}

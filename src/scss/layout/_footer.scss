@@ -1,0 +1,29 @@
+@use "../abstracts" as *;
+
+.footer {
+    text-align: center;
+    padding-block: 1em;
+
+    .social-icons {
+        @include flexCenter(flex, center, center, row);
+        list-style: none;
+
+        li {
+            padding: 0.75em;
+
+            i {
+                color: var(--textColor);
+
+                &:hover {
+                    text-shadow: 0 0 5px var(--textColor);
+                }
+            }
+        }
+    }
+
+    p {
+        font-size: 0.75em;
+        margin-block: 1em;
+        color: var(--textColor);
+    }
+}

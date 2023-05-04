@@ -1,0 +1,10 @@
+@use "../abstracts" as *;
+@use "../util" as *;
+
+.logo {
+    @include widthHeight(36px, 36px);
+
+    @include breakpoint(medium) {
+        @include widthHeight(42px, 42px);
+    }
+}

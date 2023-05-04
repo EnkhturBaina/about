@@ -1,0 +1,74 @@
+@use "../util/" as *;
+
+.hero {
+    div {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 1.75em;
+        color: var(--titleColor);
+        margin-block: 0.25em;
+
+        @include breakpoint(medium) {
+            font-size: 2.25em;
+        }
+
+        @include breakpoint(large) {
+            font-size: 2.625em;
+        }
+    }
+
+    h3 {
+        font-size: 1em;
+        color: var(--subtitleColor);
+
+        @include breakpoint(medium) {
+            font-size: 1.25em;
+        }
+    }
+
+    p {
+        color: var(--textColor);
+        margin-block: 1em;
+
+        @include breakpoint(medium) {
+            margin-bottom: 3em;
+        }
+    }
+
+    .mouse {
+        margin-top: 2em;
+        display: inline-block;
+
+        .scroll {
+            animation: scrollAnim 1s infinite alternate-reverse;
+        }
+
+        @keyframes scrollAnim {
+            from {
+                transform: translate(262px, 798px);
+            }
+            to {
+                transform: translate(262px, 830px);
+            }
+        }
+    }
+}
+
+.fadein {
+    position: relative;
+    animation: fadeAnim 2s ease;
+}
+
+@keyframes fadeAnim {
+    from {
+        opacity: 0;
+        transform: translateY(60px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

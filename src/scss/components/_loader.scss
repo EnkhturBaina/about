@@ -1,0 +1,35 @@
+@use "../abstracts" as *;
+
+#loader {
+    min-height: 100vh;
+    @include flexCenter(flex, center, center, row);
+
+    .dots {
+        @include widthHeight(1em, 1em);
+        display: inline-block;
+        border: 2px solid var(--subtitleColor);
+        border-radius: 50%;
+        margin-inline: 0.5em;
+        transform: translate3d(0);
+        animation: bounceAnim 0.6s infinite alternate;
+
+        &:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        &:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+    }
+
+    &.hide {
+        opacity: 0;
+        display: none;
+    }
+}
+
+@keyframes bounceAnim {
+    to {
+        transform: translate3d(0, -16px, 0);
+    }
+}

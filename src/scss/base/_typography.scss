@@ -1,0 +1,15 @@
+// @use "../util" as *;
+
+h1,
+h2,
+h3,
+p {
+    line-height: 1.5;
+    margin-top: 0;
+}
+
+a,
+a:visited,
+a:active {
+    text-decoration: none;
+}
