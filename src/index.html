@@ -10,8 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Enkhtur Enkhbold - Mobile & Front End Developer</title>
     <link rel="icon" href="img/logo.svg">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css"/>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="stylesheet" href="scss/style.scss">
 </head>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="col-right">
                     <div class="about-image">
-                        <img src="img/jeremy.png" alt="my-profile-pic">
+                        <!-- <img src="img/jeremy.png" alt="my-profile-pic"> -->
                     </div>
                 </div>
             </div>
@@ -139,7 +139,8 @@
 
                     <div class="btn">
                         <button class="btn-resume">
-                            <a href="https://jeremyerikleongcv.web.app" target="_blank" rel="noreferrer">Resume</a>
+                            <a href="#" rel="noreferrer">Resume</a>
+                            <!-- <a href="https://jeremyerikleongcv.web.app" target="_blank" rel="noreferrer">Resume</a> -->
                         </button>
                     </div>
                 </div>
@@ -159,14 +160,16 @@
                         <a href="#footer" class="no-select"><b>repositories</b></a>.
                     </p>
                 </div>
-                <div class="slider-container">
-                    <div class="slider slider-nav">
-                        <div><img src="img/autohuleg.png" alt="autohuleg"></div>
-                        <div><img src="img/duureg.png" alt="duureg"></div>
-                        <div><img src="img/hospital.png" alt="hospital"></div>
-                    </div>
-                </div>
             </div>
+        </section>
+        <section class="works-slider slider">
+            <div><img src="img/autohuleg.png" alt="autohuleg" class="works-img"></div>
+            <div><img src="img/duureg.png" alt="duureg" class="works-img"></div>
+            <div><img src="img/hospital.png" alt="hospital" class="works-img"></div>
+            <div><img src="img/merged.png" alt="merged" class="works-img"></div>
+            <div><img src="img/pexar.png" alt="pexar" class="works-img"></div>
+            <div><img src="img/tallent.png" alt="tallent" class="works-img"></div>
+            <div><img src="img/zeelme.png" alt="zeelme" class="works-img"></div>
         </section>
 
         <footer id="footer">
@@ -187,19 +190,19 @@
     </main>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.4.1/jquery-migrate.min.js" ></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script src="js/script.js"></script>
     <script type="text/javascript">
-        $(document).ready(function(){
-            $('.slider-nav').slick({
+       $(document).on('ready', function() {
+            $('.works-slider').slick({
                 dots: true,
                 infinite: true,
-                autoplay:true,
-                autoplaySpeed: 2000,
+                // autoplay:true,
+                // autoplaySpeed: 2000,
                 speed: 500,
-                slidesToShow: 4,
-                slidesToScroll: 4,
+                slidesToShow: 3,
+                slidesToScroll: 2,
                 responsive: [
                     {
                     breakpoint: 1024,
