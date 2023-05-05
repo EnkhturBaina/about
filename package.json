@@ -8,7 +8,7 @@
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html",
-    "predeploy": "rm -rf dist && parcel build ./src/index.html --public-url /about",
+    "predeploy": "del -rf dist && parcel build ./src/index.html --public-url /about",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
