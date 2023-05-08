@@ -1,4 +1,4 @@
-23331
+23357
 69C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\lib\transforms133276570917970862 1
 82C:\Users\eTR\Desktop\about\node_modules\snapdragon\node_modules\is-data-descriptor133276570766305341 1
 66C:\Users\eTR\Desktop\about\node_modules\lodash\_charsStartIndex.js133276570940641369 0
@@ -23,7 +23,7 @@
 89C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\color-convert\LICENSE133276570778586783 0
 54C:\Users\eTR\Desktop\about\src\scss\layout\_about.scss133018018230000000 0
 65C:\Users\eTR\Desktop\about\node_modules\safer-buffer\package.json133276570742753572 0
-39C:\Users\eTR\Desktop\about\package.json133276605100362919 0
+39C:\Users\eTR\Desktop\about\package.json133277306334151381 0
 91C:\Users\eTR\Desktop\about\node_modules\parse5\lib\extensions\error-reporting\mixin-base.js133276570802439092 0
 57C:\Users\eTR\Desktop\about\node_modules\@msgpackr-extract133276592746067911 1
 95C:\Users\eTR\Desktop\about\node_modules\expand-brackets\node_modules\is-descriptor\package.json133276570743983199 0
@@ -72,7 +72,7 @@
 103C:\Users\eTR\Desktop\about\node_modules\resolve\test\resolver\multirepo\packages\package-a\package.json133276570925451226 0
 111C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\entities\lib\index.js133276570781933112 0
 70C:\Users\eTR\Desktop\about\node_modules\es-abstract\2020\BigInt\add.js133276570875751753 0
-31C:\Users\eTR\Desktop\about\dist133277303958818176 1
+31C:\Users\eTR\Desktop\about\dist133277558664630616 1
 86C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\generated\TreeWalker.js133276570977599379 0
 60C:\Users\eTR\Desktop\about\node_modules\@parcel\hash\LICENSE133276570743723449 0
 83C:\Users\eTR\Desktop\about\node_modules\postcss-normalize-repeat-style\src\index.js133276571661572142 0
@@ -1324,6 +1324,7 @@
 63C:\Users\eTR\Desktop\about\node_modules\is-bigint\test\index.js133276570786261706 0
 86C:\Users\eTR\Desktop\about\node_modules\@babel\runtime\helpers\classPrivateFieldGet.js133276570860691344 0
 80C:\Users\eTR\Desktop\about\node_modules\resolve\test\pathfilter\deep_ref\main.js133276570903758134 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e1\3df4ac18ecb0cd34dc8eb209672ddef96b95bd133277306856086410 0
 78C:\Users\eTR\Desktop\about\node_modules\caller-callsite\node_modules\callsites133276570766315255 1
 53C:\Users\eTR\Desktop\about\node_modules\dotenv-expand133276570781464366 1
 51C:\Users\eTR\Desktop\about\node_modules\caniuse-api133276570771543641 1
@@ -1907,6 +1908,7 @@
 110C:\Users\eTR\Desktop\about\node_modules\postcss-modules-extract-imports\node_modules\supports-color\browser.js133276570753741568 0
 103C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Syloti_Nagri.js133276570989468185 0
 66C:\Users\eTR\Desktop\about\node_modules\postcss\lib\declaration.js133276571666139922 0
+115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\zeelme.a470c8ff.png133277306855627642 0
 67C:\Users\eTR\Desktop\about\node_modules\xmlchars\xml\1.0\ed5.js.map133276570813490104 0
 60C:\Users\eTR\Desktop\about\node_modules\.bin\regjsparser.cmd133276571098287639 0
 88C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-transform-modules-amd\package.json133276570781055460 0
@@ -2251,6 +2253,7 @@
 61C:\Users\eTR\Desktop\about\node_modules\postcss-discard-empty133276571664783550 1
 97C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\@parcel\fs\src\.eslintrc.json133276570778616699 0
 67C:\Users\eTR\Desktop\about\node_modules\cosmiconfig\dist\loaders.js133276570801361975 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\01133277306485275222 1
 83C:\Users\eTR\Desktop\about\node_modules\diffie-hellman\node_modules\bn.js\lib\bn.js133276570763856103 0
 97C:\Users\eTR\Desktop\about\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133276570940047852 0
 65C:\Users\eTR\Desktop\about\node_modules\postcss-normalize-charset133276571664773581 1
@@ -3102,6 +3105,7 @@
 72C:\Users\eTR\Desktop\about\node_modules\@parcel\transformer-js\native.js133276570806209208 0
 66C:\Users\eTR\Desktop\about\node_modules\util.promisify\polyfill.js133276570784441494 0
 82C:\Users\eTR\Desktop\about\node_modules\expand-brackets\node_modules\is-descriptor133276570766864985 1
+116C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\tallent.cac1ccfd.png133277306855627642 0
 104C:\Users\eTR\Desktop\about\node_modules\@babel\runtime\helpers\classCheckPrivateStaticFieldDescriptor.js133276570853769487 0
 63C:\Users\eTR\Desktop\about\node_modules\node-forge\lib\index.js133276570861578966 0
 70C:\Users\eTR\Desktop\about\node_modules\es-abstract\helpers\IsArray.js133276571006917523 0
@@ -3233,6 +3237,7 @@
 87C:\Users\eTR\Desktop\about\node_modules\log-symbols\node_modules\color-convert\index.js133276570770413901 0
 64C:\Users\eTR\Desktop\about\node_modules\util.promisify\.eslintrc133276570741883849 0
 105C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\General_Category\Space_Separator.js133276570988291323 0
+51C:\Users\eTR\Desktop\about\dist\duureg.e9ed680b.png133277306826560891 0
 102C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Old_Sogdian.js133276570978207759 0
 50C:\Users\eTR\Desktop\about\node_modules\parcel\lib133276570770753615 1
 52C:\Users\eTR\Desktop\about\node_modules\toidentifier133276570773633010 1
@@ -3321,7 +3326,6 @@
 45C:\Users\eTR\Desktop\about\node_modules\uniqs133276570774192615 1
 67C:\Users\eTR\Desktop\about\node_modules\component-emitter\Readme.md133276570776202320 0
 55C:\Users\eTR\Desktop\about\node_modules\ret\lib\util.js133276570797048273 0
-58C:\Users\eTR\Desktop\about\dist\duureg.f99d3f39.png.1400.8133276671776649554 0
 75C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\regions\alt-oc.js133276570842558939 0
 80C:\Users\eTR\Desktop\about\node_modules\uncss\node_modules\postcss\lib\vendor.js133276571677629186 0
 74C:\Users\eTR\Desktop\about\node_modules\core-js\modules\es6.array.every.js133276571001531738 0
@@ -3547,7 +3551,7 @@
 86C:\Users\eTR\Desktop\about\node_modules\core-js\modules\es6.object.set-prototype-of.js133276571018058442 0
 60C:\Users\eTR\Desktop\about\node_modules\node-addon-api\tools133276570845067322 1
 68C:\Users\eTR\Desktop\about\node_modules\typedarray\example\tarray.js133276570778716439 0
-53C:\Users\eTR\Desktop\about\dist\index.3713a88a.js.map133276605222176533 0
+53C:\Users\eTR\Desktop\about\dist\index.3713a88a.js.map133277306827478439 0
 76C:\Users\eTR\Desktop\about\node_modules\uncss\node_modules\commander\LICENSE133276570743873268 0
 149C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\string.js133276571675744233 0
 53C:\Users\eTR\Desktop\about\node_modules\lodash\has.js133276571006378957 0
@@ -3769,6 +3773,7 @@
 77C:\Users\eTR\Desktop\about\node_modules\postcss-reduce-transforms\LICENSE-MIT133276571660674547 0
 68C:\Users\eTR\Desktop\about\node_modules\ora\node_modules\chalk\types133276570792769552 1
 63C:\Users\eTR\Desktop\about\node_modules\whatwg-url\package.json133276570808607894 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\32133277306487874409 1
 107C:\Users\eTR\Desktop\about\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\pseudo.js133276570878489524 0
 55C:\Users\eTR\Desktop\about\node_modules\vendors\license133276570742708621 0
 59C:\Users\eTR\Desktop\about\node_modules\core-js\library\web133276571088787577 1
@@ -4214,6 +4219,7 @@
 76C:\Users\eTR\Desktop\about\node_modules\es-abstract\2020\IsDetachedBuffer.js133276571010942038 0
 84C:\Users\eTR\Desktop\about\node_modules\merge-source-map\node_modules\source-map\lib133276570859449565 1
 88C:\Users\eTR\Desktop\about\node_modules\core-js\modules\es6.typed.uint8-clamped-array.js133276571039901115 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\fc133277306485869229 1
 66C:\Users\eTR\Desktop\about\node_modules\util\node_modules\inherits133276570775622342 1
 63C:\Users\eTR\Desktop\about\node_modules\has-proto\test\index.js133276570774412678 0
 79C:\Users\eTR\Desktop\about\node_modules\util\node_modules\inherits\package.json133276570744053280 0
@@ -4975,6 +4981,7 @@
 83C:\Users\eTR\Desktop\about\node_modules\@babel\types\lib\comments\addComment.js.map133276570880229966 0
 62C:\Users\eTR\Desktop\about\node_modules\minimist\test\short.js133276570831827086 0
 82C:\Users\eTR\Desktop\about\node_modules\uncss\node_modules\is-absolute-url\license133276570743873268 0
+51C:\Users\eTR\Desktop\about\dist\merged.23d77e4b.png133277306826560891 0
 101C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\mdn-data\css\at-rules.schema.json133276570806892483 0
 64C:\Users\eTR\Desktop\about\node_modules\shebang-command\index.js133276570752412293 0
 69C:\Users\eTR\Desktop\about\node_modules\cosmiconfig\dist\types.js.map133276570861738538 0
@@ -5252,7 +5259,7 @@
 112C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Binary_Property\Changes_When_Uppercased.js133276570893540001 0
 66C:\Users\eTR\Desktop\about\node_modules\tslib\modules\package.json133276570790071681 0
 67C:\Users\eTR\Desktop\about\node_modules\core-js\modules\_classof.js133276570869877120 0
-120C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\remotes\origin133276605299072736 1
+120C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\remotes\origin133277306886916574 1
 62C:\Users\eTR\Desktop\about\node_modules\trim-repeated\index.js133276592732763508 0
 72C:\Users\eTR\Desktop\about\node_modules\css-tree\cjs\convertor\index.cjs133276570896018459 0
 66C:\Users\eTR\Desktop\about\node_modules\trim-repeated\package.json133276592732354604 0
@@ -5554,7 +5561,7 @@
 59C:\Users\eTR\Desktop\about\node_modules\terser\bin\uglifyjs133276570770304048 0
 60C:\Users\eTR\Desktop\about\node_modules\term-size\index.d.ts133276570805830222 0
 96C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\generated\MutationObserverInit.js133276570964448940 0
-42C:\Users\eTR\Desktop\about\dist\index.html133277303958748368 0
+42C:\Users\eTR\Desktop\about\dist\index.html133277306827418597 0
 93C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-transform-computed-properties\README.md133276570760088189 0
 73C:\Users\eTR\Desktop\about\node_modules\postcss-calc\src\lib\transform.js133276571671774852 0
 69C:\Users\eTR\Desktop\about\node_modules\string.prototype.trim\auto.js133276570776442071 0
@@ -5751,6 +5758,7 @@
 62C:\Users\eTR\Desktop\about\node_modules\stylehacks\LICENSE-MIT133276571660674547 0
 63C:\Users\eTR\Desktop\about\node_modules\for-each\test\.eslintrc133276570797771414 0
 79C:\Users\eTR\Desktop\about\node_modules\core-js-compat\modules-by-versions.json133276570834809295 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\fb133277306485594949 1
 91C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\subresource-integrity.js133276571025139860 0
 96C:\Users\eTR\Desktop\about\node_modules\postcss-modules-values\node_modules\ansi-styles\index.js133276570753691484 0
 80C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-svgo133276571665112676 1
@@ -6523,7 +6531,7 @@
 68C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\src\Parser.js133276570957771521 0
 68C:\Users\eTR\Desktop\about\node_modules\expand-brackets\node_modules133276570703399495 1
 65C:\Users\eTR\Desktop\about\node_modules\source-map-js\lib\util.js133276570817569360 0
-54C:\Users\eTR\Desktop\about\dist\index.e8265c92.css.map133277303958808202 0
+54C:\Users\eTR\Desktop\about\dist\index.e8265c92.css.map133277558663533552 0
 67C:\Users\eTR\Desktop\about\node_modules\css-tree\cjs\utils\List.cjs133276570910650060 0
 60C:\Users\eTR\Desktop\about\node_modules\ajv\lib\dot\enum.jst133276570912250867 0
 63C:\Users\eTR\Desktop\about\node_modules\source-map\CHANGELOG.md133276570829817360 0
@@ -6892,7 +6900,7 @@
 90C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\css-tree\lib\convertor133276570899728732 1
 65C:\Users\eTR\Desktop\about\node_modules\side-channel\package.json133276570791802137 0
 62C:\Users\eTR\Desktop\about\node_modules\side-channel\README.md133276570801581386 0
-50C:\Users\eTR\Desktop\about\dist\index.e8265c92.css133277303957731090 0
+50C:\Users\eTR\Desktop\about\dist\index.e8265c92.css133277558663513612 0
 50C:\Users\eTR\Desktop\about\node_modules\sass\types133276570919731244 1
 60C:\Users\eTR\Desktop\about\node_modules\cross-spawn\index.js133276570760577811 0
 57C:\Users\eTR\Desktop\about\node_modules\side-channel\test133276570784411571 1
@@ -7211,6 +7219,7 @@
 61C:\Users\eTR\Desktop\about\node_modules\lodash\forOwnRight.js133276571002788384 0
 77C:\Users\eTR\Desktop\about\node_modules\lmdb\dependencies\lz4\lib\dll\example133276570951941850 1
 60C:\Users\eTR\Desktop\about\node_modules\isstream\isstream.js133276570776012311 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\00133277306487814553 1
 56C:\Users\eTR\Desktop\about\node_modules\semver\semver.js133276570775697287 0
 58C:\Users\eTR\Desktop\about\node_modules\saxes\CHANGELOG.md133276570755190942 0
 92C:\Users\eTR\Desktop\about\node_modules\postcss-ordered-values\src\rules\listStyleTypes.json133276571674866575 0
@@ -7827,6 +7836,7 @@
 59C:\Users\eTR\Desktop\about\node_modules\relateurl\lib\parse133276570814337829 1
 88C:\Users\eTR\Desktop\about\node_modules\@babel\runtime\helpers\skipFirstGeneratorNext.js133276570956709278 0
 68C:\Users\eTR\Desktop\about\node_modules\relateurl\lib\util\devlog.js133276570834390416 0
+114C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.4561e712.css133277306855587747 0
 69C:\Users\eTR\Desktop\about\node_modules\relateurl\lib\relate\index.js133276570830121654 0
 68C:\Users\eTR\Desktop\about\node_modules\relateurl\lib\parse\query.js133276570812038909 0
 128C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\hooks\applypatch-msg.sample133276605230369854 0
@@ -8123,6 +8133,7 @@
 89C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\entities\test\test.js133276570824451316 0
 106C:\Users\eTR\Desktop\about\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133276570918848508 0
 98C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Tagalog.js133276570990231230 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\fb\a8dd093ab00e42e7532d53c512484d6769627a133277306856066578 0
 124C:\Users\eTR\Desktop\about\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\nested.js133276570904042477 0
 97C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Tai_Le.js133276570990410750 0
 96C:\Users\eTR\Desktop\about\node_modules\readable-stream\node_modules\string_decoder\package.json133276570744063255 0
@@ -8141,7 +8152,7 @@
 99C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Tifinagh.js133276570992490296 0
 99C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Ugaritic.js133276570993008908 0
 88C:\Users\eTR\Desktop\about\node_modules\core-js\library\modules\es6.reflect.enumerate.js133276571019230412 0
-53C:\Users\eTR\Desktop\about\dist\index.09c24910.js.map133277303911734149 0
+53C:\Users\eTR\Desktop\about\dist\index.09c24910.js.map133277558664610673 0
 61C:\Users\eTR\Desktop\about\node_modules\node-forge\lib\tls.js133276570903827942 0
 94C:\Users\eTR\Desktop\about\node_modules\regenerate-unicode-properties\Script_Extensions\Vai.js133276570993467681 0
 91C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\js-yaml\dist\js-yaml.js133276570841237387 0
@@ -10325,7 +10336,7 @@
 83C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\posthtml-parser133276570855051153 1
 110C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\css-tree\lib\definition-syntax\generate.js133276570887131879 0
 80C:\Users\eTR\Desktop\about\node_modules\es-abstract\2021\ValidateAtomicAccess.js133276571088757654 0
-122C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\jeremy-avatar.f5ff7d7c.png133276605263868235 0
+122C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\jeremy-avatar.f5ff7d7c.png133277306855587747 0
 83C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\posthtml-render133276570778596753 1
 80C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\resolve-from133276571663895926 1
 64C:\Users\eTR\Desktop\about\node_modules\core-js\fn\array\virtual133276571091261165 1
@@ -10693,6 +10704,7 @@
 74C:\Users\eTR\Desktop\about\node_modules\core-js\fn\array\virtual\values.js133276571091271137 0
 105C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-value-parser\lib\stringify.js133276570788450937 0
 100C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-value-parser\lib\walk.js133276570798329917 0
+54C:\Users\eTR\Desktop\about\dist\autohuleg.8dd8af01.png133277306826550915 0
 105C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-unique-selectors\CHANGELOG.md133276571661641972 0
 73C:\Users\eTR\Desktop\about\node_modules\json-schema-traverse\package.json133276570742083754 0
 97C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-unique-selectors\dist133276571664883283 1
@@ -10838,7 +10850,7 @@
 74C:\Users\eTR\Desktop\about\node_modules\core-js\library\modules\es6.map.js133276571008438535 0
 136C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\API.md133276571677439690 0
 77C:\Users\eTR\Desktop\about\node_modules\es-abstract\2021\DetachArrayBuffer.js133276570981249786 0
-100C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git133276605265743212 1
+100C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git133277306857103685 1
 142C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\CHANGELOG.md133276571677708969 0
 141C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\LICENSE-MIT133276571661053530 0
 83C:\Users\eTR\Desktop\about\node_modules\babel-types\node_modules\to-fast-properties133276570766465107 1
@@ -10878,7 +10890,6 @@
 101C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\dist\lib133276571665890595 1
 115C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\dist\lib\canUnquote.js133276571665162537 0
 94C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-params\dist133276571664434488 1
-51C:\Users\eTR\Desktop\about\dist\jeremy.36c57ce7.png133277299426754210 0
 97C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-params\LICENSE133276571661751662 0
 63C:\Users\eTR\Desktop\about\node_modules\fragment-cache\index.js133276570767054972 0
 99C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-minify-params\README.md133276571663217743 0
@@ -11067,7 +11078,7 @@
 62C:\Users\eTR\Desktop\about\node_modules\css-tree\lib\generator133276570976227970 1
 127C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-calc\node_modules\postcss-value-parser\lib\parse.js133276571663516949 0
 78C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\IsConcatSpreadable.js133276571008578163 0
-125C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs\heads\gh-pages133276605265743212 0
+125C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs\heads\gh-pages133277306487904332 0
 90C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\entities\lib\encode.js133276570798080586 0
 131C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\postcss-calc\node_modules\postcss-value-parser\lib\stringify.js133276571664643928 0
 83C:\Users\eTR\Desktop\about\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133276570954729469 0
@@ -11655,6 +11666,7 @@
 127C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\dom-serializer\node_modules\domelementtype\lib\esm\index.js133276570756410697 0
 67C:\Users\eTR\Desktop\about\node_modules\ajv\lib\dotjs\properties.js133276570884897663 0
 85C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\csso\node_modules133276570703349630 1
+115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\merged.23d77e4b.png133277306855617666 0
 85C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\csso\package.json133276570884748063 0
 94C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\csso\node_modules\css-tree133276570949727595 1
 67C:\Users\eTR\Desktop\about\node_modules\is-data-descriptor\index.js133276570751762280 0
@@ -11935,7 +11947,7 @@
 86C:\Users\eTR\Desktop\about\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133276570866820211 0
 106C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo133276570931390624 1
 94C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\css-tree\lib\syntax\config133276570946949756 1
-49C:\Users\eTR\Desktop\about\dist\logo.8bb9af93.svg133277299425876558 0
+49C:\Users\eTR\Desktop\about\dist\logo.8bb9af93.svg133277558663064806 0
 96C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\node_modules\css-tree\lib\syntax\index.js133276570906012297 0
 87C:\Users\eTR\Desktop\about\node_modules\core-js\library\modules\es7.math.deg-per-rad.js133276571043541556 0
 64C:\Users\eTR\Desktop\about\node_modules\node-forge\lib\md.all.js133276570866890025 0
@@ -12266,7 +12278,7 @@
 71C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\lib\SourceMap.js133276570911088887 0
 64C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\lib\utils133276570932776917 1
 65C:\Users\eTR\Desktop\about\node_modules\core-js\fn\parse-float.js133276571079117993 0
-113C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.3713a88a.js133276605263858259 0
+113C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.3713a88a.js133277306855577771 0
 74C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\lib\visitors\env.js133276570937300104 0
 74C:\Users\eTR\Desktop\about\node_modules\parcel-bundler\lib\utils\config.js133276570918968190 0
 59C:\Users\eTR\Desktop\about\node_modules\arr-flatten\LICENSE133276570759648886 0
@@ -12984,7 +12996,7 @@
 79C:\Users\eTR\Desktop\about\node_modules\csso\node_modules\mdn-data\css\index.js133276570763806293 0
 59C:\Users\eTR\Desktop\about\node_modules\lodash\package.json133276571065000125 0
 71C:\Users\eTR\Desktop\about\node_modules\is-accessor-descriptor\index.js133276570751772266 0
-50C:\Users\eTR\Desktop\about\dist\pexar.aa1aa6ab.png133277303957731090 0
+50C:\Users\eTR\Desktop\about\dist\pexar.aa1aa6ab.png133277558663952436 0
 59C:\Users\eTR\Desktop\about\node_modules\md5.js\package.json133276570742853562 0
 58C:\Users\eTR\Desktop\about\node_modules\map-visit\index.js133276570767005166 0
 81C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\DefinePropertyOrThrow.js133276570980611493 0
@@ -13713,7 +13725,7 @@
 87C:\Users\eTR\Desktop\about\node_modules\@babel\runtime\helpers\esm\temporalUndefined.js133276570947588048 0
 62C:\Users\eTR\Desktop\about\node_modules\lodash\fp\eachRight.js133276570995472490 0
 61C:\Users\eTR\Desktop\about\node_modules\lodash\fp\endsWith.js133276570995622095 0
-54C:\Users\eTR\Desktop\about\dist\autohuleg.773aeaf3.png133277303957761008 0
+54C:\Users\eTR\Desktop\about\dist\autohuleg.773aeaf3.png133277558663982359 0
 55C:\Users\eTR\Desktop\about\node_modules\lodash\fp\eq.js133276570996170899 0
 59C:\Users\eTR\Desktop\about\node_modules\lodash\fp\escape.js133276570996529859 0
 60C:\Users\eTR\Desktop\about\node_modules\lodash\fp\without.js133276571063897984 0
@@ -13894,6 +13906,7 @@
 62C:\Users\eTR\Desktop\about\node_modules\lodash\fp\partition.js133276571036529941 0
 57C:\Users\eTR\Desktop\about\node_modules\lodash\fp\path.js133276571036569833 0
 79C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\utils\stream.d.ts133276570912111242 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\9a\3749135f6a6fc330cf362c6c787e60fb29a7bf133277306856186138 0
 59C:\Users\eTR\Desktop\about\node_modules\lodash\fp\pathEq.js133276571036789246 0
 59C:\Users\eTR\Desktop\about\node_modules\lodash\fp\pathOr.js133276571037228068 0
 100C:\Users\eTR\Desktop\about\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib\postcss.d.ts133276571678766143 0
@@ -14482,7 +14495,7 @@
 92C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSpanElement-impl.js133276570993417821 0
 100C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableCaptionElement-impl.js133276570993467681 0
 93C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableElement-impl.js133276570993771946 0
-111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\heads133276605265743212 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\heads133277306855009293 1
 96C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableRowElement-impl.js133276570993801868 0
 96C:\Users\eTR\Desktop\about\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTextAreaElement-impl.js133276570993881657 0
 65C:\Users\eTR\Desktop\about\node_modules\https-browserify\index.js133276570760508029 0
@@ -15260,7 +15273,7 @@
 73C:\Users\eTR\Desktop\about\node_modules\htmlnano\lib\modules\minifyCss.js133276570834290683 0
 72C:\Users\eTR\Desktop\about\node_modules\htmlnano\lib\modules\minifyJs.js133276570836130857 0
 88C:\Users\eTR\Desktop\about\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133276570845057350 0
-111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\FETCH_HEAD133276605260871270 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\FETCH_HEAD133277306852280227 0
 78C:\Users\eTR\Desktop\about\node_modules\htmlnano\lib\modules\removeComments.js133276570849590479 0
 79C:\Users\eTR\Desktop\about\node_modules\core-js\modules\es7.math.deg-per-rad.js133276571043681185 0
 85C:\Users\eTR\Desktop\about\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133276570852517740 0
@@ -15350,6 +15363,7 @@
 60C:\Users\eTR\Desktop\about\node_modules\hash.js\.eslintrc.js133276570752022265 0
 71C:\Users\eTR\Desktop\about\node_modules\es-abstract\2020\GetIterator.js133276570993557442 0
 86C:\Users\eTR\Desktop\about\node_modules\csso\node_modules\css-tree\cjs\lexer\Lexer.cjs133276570905508551 0
+118C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\autohuleg.8dd8af01.png133277306855637614 0
 59C:\Users\eTR\Desktop\about\node_modules\hash.js\.travis.yml133276570760038321 0
 58C:\Users\eTR\Desktop\about\node_modules\core-js\fn\dict.js133276570999427211 0
 51C:\Users\eTR\Desktop\about\node_modules\hash.js\lib133276570789657714 1
@@ -15357,7 +15371,7 @@
 50C:\Users\eTR\Desktop\about\node_modules\cssesc\man133276570787647997 1
 84C:\Users\eTR\Desktop\about\node_modules\core-js\library\modules\es6.object.freeze.js133276571014657367 0
 57C:\Users\eTR\Desktop\about\node_modules\hash.js\README.md133276570767824607 0
-53C:\Users\eTR\Desktop\about\dist\hospital.8317ac9f.png133277303957751040 0
+53C:\Users\eTR\Desktop\about\dist\hospital.8317ac9f.png133277558663962409 0
 65C:\Users\eTR\Desktop\about\node_modules\hash.js\test\hash-test.js133276570834968867 0
 107C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser\sequence.js133276570930657494 0
 56C:\Users\eTR\Desktop\about\node_modules\hash.js\lib\hash133276570831961797 1
@@ -15823,7 +15837,7 @@
 89C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\providers\reader-async.d.ts133276570896028436 0
 87C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\providers\reader-async.js133276570896821432 0
 90C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\providers\reader-stream.d.ts133276570897369966 0
-117C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.3713a88a.js.map133276605263868235 0
+117C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.3713a88a.js.map133277306855577771 0
 88C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\providers\reader-stream.js133276570899938175 0
 88C:\Users\eTR\Desktop\about\node_modules\fast-glob\package\out\providers\reader-sync.d.ts133276570900581553 0
 105C:\Users\eTR\Desktop\about\node_modules\fast-glob\node_modules\braces\node_modules\extend-shallow\LICENSE133276570761208291 0
@@ -16429,6 +16443,7 @@
 86C:\Users\eTR\Desktop\about\node_modules\cssstyle\scripts\download_latest_properties.js133276570917452247 0
 68C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\ToLength.js133276571079457085 0
 80C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\ToPropertyDescriptor.js133276571082379433 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\ea133277306485465274 1
 73C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\ToPropertyKey.js133276571083386739 0
 53C:\Users\eTR\Desktop\about\node_modules\.bin\uuid.ps1133276571098327534 0
 68C:\Users\eTR\Desktop\about\node_modules\es-abstract\2022\ToString.js133276571083950323 0
@@ -17062,7 +17077,7 @@
 63C:\Users\eTR\Desktop\about\node_modules\es-abstract\2016\Day.js133276570976731708 0
 71C:\Users\eTR\Desktop\about\node_modules\es-abstract\2016\DayFromYear.js133276570977788870 0
 73C:\Users\eTR\Desktop\about\node_modules\es-abstract\2016\DayWithinYear.js133276570979539278 0
-58C:\Users\eTR\Desktop\about\dist\jeremy-avatar.6282b083.png133277303911415008 0
+58C:\Users\eTR\Desktop\about\dist\jeremy-avatar.6282b083.png133277558663912540 0
 81C:\Users\eTR\Desktop\about\node_modules\es-abstract\2016\DefinePropertyOrThrow.js133276570980287281 0
 81C:\Users\eTR\Desktop\about\node_modules\es-abstract\2016\DeletePropertyOrThrow.js133276570980731172 0
 68C:\Users\eTR\Desktop\about\node_modules\babel-runtime\core-js\system133276570961287226 1
@@ -17187,6 +17202,7 @@
 63C:\Users\eTR\Desktop\about\node_modules\es-abstract\2015\Set.js133276571064621139 0
 78C:\Users\eTR\Desktop\about\node_modules\es-abstract\2015\SpeciesConstructor.js133276571066311699 0
 101C:\Users\eTR\Desktop\about\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133276570911128783 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\01\09f811f9c0baac3d0c1eadaebd614a8cca58ff133277306856006630 0
 76C:\Users\eTR\Desktop\about\node_modules\es-abstract\2015\thisBooleanValue.js133276571069937072 0
 75C:\Users\eTR\Desktop\about\node_modules\es-abstract\2015\thisNumberValue.js133276571070181525 0
 75C:\Users\eTR\Desktop\about\node_modules\es-abstract\2015\thisStringValue.js133276571070640298 0
@@ -17919,7 +17935,7 @@
 113C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessDefs.js133276570896611992 0
 78C:\Users\eTR\Desktop\about\node_modules\csso\lib\restructure\7-mergeRuleset.js133276570883910308 0
 69C:\Users\eTR\Desktop\about\node_modules\csso\lib\replace\Dimension.js133276570907707764 0
-105C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\HEAD133276605262801085 0
+105C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\HEAD133277306854131639 0
 65C:\Users\eTR\Desktop\about\node_modules\csso\lib\replace\Value.js133276570919442019 0
 75C:\Users\eTR\Desktop\about\node_modules\csso\lib\replace\property\border.js133276570893689602 0
 80C:\Users\eTR\Desktop\about\node_modules\csso\lib\replace\property\font-weight.js133276570909238737 0
@@ -19290,7 +19306,6 @@
 62C:\Users\eTR\Desktop\about\node_modules\concat-stream\index.js133276570751122517 0
 88C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\html-media-capture.js133276570992988963 0
 61C:\Users\eTR\Desktop\about\node_modules\concat-stream\LICENSE133276570759609077 0
-61C:\Users\eTR\Desktop\about\dist\index.e8265c92.css.map.1400.c133276671776649554 0
 66C:\Users\eTR\Desktop\about\node_modules\concat-stream\package.json133276570742263746 0
 63C:\Users\eTR\Desktop\about\node_modules\concat-stream\readme.md133276570766945052 0
 117C:\Users\eTR\Desktop\about\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\browser.js133276570821409278 0
@@ -19376,7 +19391,6 @@
 55C:\Users\eTR\Desktop\about\node_modules\color\README.md133276570769874025 0
 72C:\Users\eTR\Desktop\about\node_modules\color\node_modules\color-convert133276570791911850 1
 69C:\Users\eTR\Desktop\about\node_modules\color\node_modules\color-name133276570790211309 1
-61C:\Users\eTR\Desktop\about\dist\index.09c24910.js.map.10852.x133276661222870169 0
 80C:\Users\eTR\Desktop\about\node_modules\color\node_modules\color-name\.npmignore133276570753606637 0
 77C:\Users\eTR\Desktop\about\node_modules\color\node_modules\color-name\LICENSE133276570769324022 0
 82C:\Users\eTR\Desktop\about\node_modules\color\node_modules\color-name\package.json133276570744043311 0
@@ -20027,7 +20041,7 @@
 90C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133276571024107547 0
 77C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\streams.js133276571024840659 0
 93C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133276571024880552 0
-111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e1133276605264297084 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e1133277306485624925 1
 90C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\subresource-bundling.js133276571024950369 0
 81C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\svg-filters.js133276571025877886 0
 79C:\Users\eTR\Desktop\about\node_modules\caniuse-lite\data\features\svg-fonts.js133276571025947697 0
@@ -20300,7 +20314,7 @@
 78C:\Users\eTR\Desktop\about\node_modules\@parcel\transformer-babel\lib\types.js133276570834131111 0
 65C:\Users\eTR\Desktop\about\node_modules\brace-expansion\README.md133276570766955032 0
 57C:\Users\eTR\Desktop\about\node_modules\boolbase\index.js133276570759858564 0
-108C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects133276605265942678 1
+108C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects133277306852579711 1
 61C:\Users\eTR\Desktop\about\node_modules\boolbase\package.json133276570742533707 0
 49C:\Users\eTR\Desktop\about\node_modules\bn.js\lib133276570752172149 1
 58C:\Users\eTR\Desktop\about\node_modules\bn.js\package.json133276570771833506 0
@@ -20324,6 +20338,7 @@
 57C:\Users\eTR\Desktop\about\node_modules\base\node_modules133276570703299759 1
 57C:\Users\eTR\Desktop\about\node_modules\base\package.json133276570742413881 0
 54C:\Users\eTR\Desktop\about\node_modules\base\README.md133276570769824155 0
+117C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\hospital.72935ada.png133277306855627642 0
 73C:\Users\eTR\Desktop\about\node_modules\base\node_modules\define-property133276570766295075 1
 81C:\Users\eTR\Desktop\about\node_modules\base\node_modules\define-property\LICENSE133276570760917813 0
 83C:\Users\eTR\Desktop\about\node_modules\base\node_modules\define-property\README.md133276570753491558 0
@@ -20539,7 +20554,7 @@
 79C:\Users\eTR\Desktop\about\node_modules\babel-plugin-polyfill-corejs2\README.md133276570752462071 0
 108C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133276570864680822 0
 87C:\Users\eTR\Desktop\about\node_modules\babel-plugin-polyfill-corejs2\node_modules\.bin133276571097360120 1
-150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\7a\efb2060db6dc324ec19d79e08bf70b36202fb6133276605264576335 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\7a\efb2060db6dc324ec19d79e08bf70b36202fb6133277306856106352 0
 89C:\Users\eTR\Desktop\about\node_modules\babel-plugin-polyfill-corejs2\node_modules\semver133276570795457449 1
 102C:\Users\eTR\Desktop\about\node_modules\babel-plugin-polyfill-corejs2\node_modules\semver\CHANGELOG.md133276570791667415 0
 99C:\Users\eTR\Desktop\about\node_modules\babel-plugin-polyfill-corejs2\node_modules\semver\README.md133276570797871145 0
@@ -21457,6 +21472,7 @@
 107C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertPathData.js133276570841367042 0
 111C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertStyleToAttrs.js133276570846727966 0
 104C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\inlineStyles.js133276570860671400 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\00\1a212e4c69ef5f622ebaa9b5a8d8920870d0fd133277306487800248 0
 113C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133276570867528317 0
 113C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveGroupAttrsToElems.js133276570868241495 0
 99C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\plugins.js133276570871981669 0
@@ -21886,6 +21902,7 @@
 105C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts133276570863997584 0
 99C:\Users\eTR\Desktop\about\node_modules\@babel\helper-create-class-features-plugin\lib\index.js.map133276570820322186 0
 109C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts.map133276570840309860 0
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\85133277306485654801 1
 103C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.js133276570798319945 0
 80C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-transform-modules-commonjs133276570798120477 1
 124C:\Users\eTR\Desktop\about\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133276570857250355 0
@@ -22844,7 +22861,7 @@
 83C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-dynamic-import\LICENSE133276570743213728 0
 83C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-class-static-block\lib133276570760508029 1
 87C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-class-static-block\LICENSE133276570743213728 0
-49C:\Users\eTR\Desktop\about\dist\logo.3c8482e1.svg133276605221747684 0
+49C:\Users\eTR\Desktop\about\dist\logo.3c8482e1.svg133277306826550915 0
 92C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-class-static-block\package.json133276570770143984 0
 89C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-class-static-block\README.md133276570752512252 0
 81C:\Users\eTR\Desktop\about\node_modules\@babel\plugin-syntax-class-properties\lib133276570761387801 1
@@ -22909,7 +22926,8 @@
 87C:\Users\eTR\Desktop\about\node_modules\@babel\highlight\node_modules\has-flag\index.js133276570753761511 0
 86C:\Users\eTR\Desktop\about\node_modules\@babel\highlight\node_modules\has-flag\license133276570761178362 0
 91C:\Users\eTR\Desktop\about\node_modules\@babel\highlight\node_modules\has-flag\package.json133276570744253229 0
-49C:\Users\eTR\Desktop\about\dist\index.09c24910.js133277303911674311 0
+49C:\Users\eTR\Desktop\about\dist\index.09c24910.js133277558664580752 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\ea\b4b1adfccef2ef9837f14aad5c7079dc4129fd133277306856036827 0
 103C:\Users\eTR\Desktop\about\node_modules\@babel\helper-create-regexp-features-plugin\node_modules\semver133276570795447479 1
 95C:\Users\eTR\Desktop\about\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133276570791657438 0
 91C:\Users\eTR\Desktop\about\node_modules\@babel\highlight\node_modules\color-name\.npmignore133276570753761511 0
@@ -23210,37 +23228,47 @@
 87C:\Users\eTR\Desktop\about\node_modules\@ampproject\remapping\dist\types\remapping.d.ts133276570805710541 0
 93C:\Users\eTR\Desktop\about\node_modules\@ampproject\remapping\dist\types\source-map-tree.d.ts133276570810029186 0
 88C:\Users\eTR\Desktop\about\node_modules\@ampproject\remapping\dist\types\source-map.d.ts133276570812188513 0
-95C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git133276605263858259 1
-114C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.760f2f75.css133276605263868235 0
-118C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.760f2f75.css.map133276605263868235 0
-106C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.html133276605263868235 0
-115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\jeremy.c323e599.png133276605263908128 0
-113C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\logo.3c8482e1.svg133276605263878206 0
-115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\COMMIT_EDITMSG133276605265663425 0
-107C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\config133276605265025137 0
-106C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\index133276605265603587 0
+95C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git133277306855567797 1
+115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\duureg.e9ed680b.png133277306855637614 0
+118C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.4561e712.css.map133277306855587747 0
+106C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\index.html133277306855587747 0
+113C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\logo.3c8482e1.svg133277306855587747 0
+114C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\pexar.da725218.png133277306855617666 0
+115C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\COMMIT_EDITMSG133277306487854473 0
+107C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\config133277306857093716 0
+106C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\index133277306856186138 0
 105C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\info133276605230439664 1
-110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\ORIG_HEAD133276605263349621 0
+110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\ORIG_HEAD133277306854979371 0
 108C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\shallow133276605244155300 0
 113C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\remotes133276605299043100 1
 110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\tags133276605230449641 1
-129C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\remotes\origin\gh-pages133276605299052792 0
-120C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\heads\gh-pages133276605265733241 0
+129C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\remotes\origin\gh-pages133277306554038522 0
+120C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\refs\heads\gh-pages133277306487894361 0
 111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\33133276605264406793 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\34133277306485988926 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\40133277306485774470 1
 111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\7a133276605264586309 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\8b133277306485674743 1
+111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\9a133277306486128551 1
 111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\a7133276605264376870 1
 111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\c5133276605264356925 1
 111C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e2133276605264277136 1
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\fc\75683c05d516611192ac9a557ec9125bad95c2133277306856136275 0
 150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\ee\8249fa66e718a084acc50285ff7ca9adeeb8c6133276605265713293 0
-150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e2\56326ccd29e3cc561c4f052a12b8f80b3fe650133276605264247233 0
-150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e1\ed5fb0dd94beaee8370f26d03e7ec5f032762b133276605264287108 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e2\56326ccd29e3cc561c4f052a12b8f80b3fe650133277306856066578 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\e1\ed5fb0dd94beaee8370f26d03e7ec5f032762b133277306856076434 0
 150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\bf\9e074d435682812123045dc2684eb92fd14ae1133276605265583638 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\8b\a525af2a9ec654b5f033c85b4b410e4a5b682b133277306856096379 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\85\042e7a108cd3f15d992fe43a8ed662da49acd9133277306856086410 0
 150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\7b\604df0e3076c9d1862a858e6f6aab31a210352133276605264546415 0
-150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\33\9848ef3769e4f704e7940f0ed75f123f2d90cf133276605264396820 0
-110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\HEAD133276605265743212 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\40\0ce6c3018067b57d2ad59bcbbf525fa9d42597133277306856126301 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\34\567f3bc034597c48ba8719828ac360e3b95dab133277306856156218 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\33\9848ef3769e4f704e7940f0ed75f123f2d90cf133277306856096379 0
+150C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\objects\32\b9383befe0b94683259b76ee00c982ca581f24133277306487864451 0
+110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\HEAD133277306854999317 0
 110C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs133276605299052792 1
 118C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs\remotes133276605299062763 1
-134C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs\remotes\origin\gh-pages133276605299062763 0
+134C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\logs\refs\remotes\origin\gh-pages133277306554038522 0
 124C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\hooks\commit-msg.sample133276605230379824 0
 125C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\hooks\post-update.sample133276605230389803 0
 128C:\Users\eTR\Desktop\about\node_modules\.cache\gh-pages\https!github.com!EnkhturBaina!about.git\.git\hooks\pre-applypatch.sample133276605230399771 0
@@ -23314,19 +23342,17 @@
 49C:\Users\eTR\Desktop\about\node_modules\.bin\uuid133276571098327534 0
 53C:\Users\eTR\Desktop\about\node_modules\.bin\uuid.cmd133276571098327534 0
 54C:\Users\eTR\Desktop\about\node_modules\.bin\which.ps1133276571098337506 0
-49C:\Users\eTR\Desktop\about\dist\about.59712999.js133277303911863802 0
-53C:\Users\eTR\Desktop\about\dist\about.59712999.js.map133277303911903701 0
-61C:\Users\eTR\Desktop\about\dist\about.59712999.js.map.10852.w133276661222860192 0
-60C:\Users\eTR\Desktop\about\dist\about.59712999.js.map.1400.d133276671776649554 0
-51C:\Users\eTR\Desktop\about\dist\duureg.f99d3f39.png133277303957770981 0
-58C:\Users\eTR\Desktop\about\dist\duureg.f99d3f39.png.5600.a133276667587658057 0
-49C:\Users\eTR\Desktop\about\dist\index.3713a88a.js133276605222146611 0
-50C:\Users\eTR\Desktop\about\dist\index.760f2f75.css133276605222146611 0
-54C:\Users\eTR\Desktop\about\dist\index.760f2f75.css.map133276605222186503 0
-58C:\Users\eTR\Desktop\about\dist\jeremy-avatar.f5ff7d7c.png133276605221747684 0
-58C:\Users\eTR\Desktop\about\dist\jeremy.36c57ce7.png.1400.7133276671776619634 0
-58C:\Users\eTR\Desktop\about\dist\jeremy.36c57ce7.png.5600.9133276667587658057 0
-51C:\Users\eTR\Desktop\about\dist\jeremy.c323e599.png133276605221747684 0
-51C:\Users\eTR\Desktop\about\dist\merged.a90370e9.png133277303957731090 0
-52C:\Users\eTR\Desktop\about\dist\tallent.bcb6474f.png133277303957751040 0
-51C:\Users\eTR\Desktop\about\dist\zeelme.51609b75.png133277303957751040 0
+49C:\Users\eTR\Desktop\about\dist\about.59712999.js133277558664580752 0
+53C:\Users\eTR\Desktop\about\dist\about.59712999.js.map133277558664610673 0
+51C:\Users\eTR\Desktop\about\dist\duureg.f99d3f39.png133277558664391261 0
+53C:\Users\eTR\Desktop\about\dist\hospital.72935ada.png133277306826560891 0
+49C:\Users\eTR\Desktop\about\dist\index.3713a88a.js133277306827418597 0
+50C:\Users\eTR\Desktop\about\dist\index.4561e712.css133277306827418597 0
+54C:\Users\eTR\Desktop\about\dist\index.4561e712.css.map133277306827478439 0
+58C:\Users\eTR\Desktop\about\dist\jeremy-avatar.f5ff7d7c.png133277306826550915 0
+51C:\Users\eTR\Desktop\about\dist\merged.a90370e9.png133277558664361335 0
+50C:\Users\eTR\Desktop\about\dist\pexar.da725218.png133277306826560891 0
+52C:\Users\eTR\Desktop\about\dist\tallent.bcb6474f.png133277558664371318 0
+52C:\Users\eTR\Desktop\about\dist\tallent.cac1ccfd.png133277306826560891 0
+51C:\Users\eTR\Desktop\about\dist\zeelme.51609b75.png133277558663972380 0
+51C:\Users\eTR\Desktop\about\dist\zeelme.a470c8ff.png133277306826560891 0
