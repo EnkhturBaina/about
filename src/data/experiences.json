@@ -1,0 +1,20 @@
+[
+	{
+		"time": "Dec 2022 - Present",
+		"title": "GameMine LLC",
+		"description": "Remote Mobile Developer.",
+		"tags": ["React Native"]
+	},
+	{
+		"time": "Jun 2022 - Present",
+		"title": "GurenSoft LLC",
+		"description": "Remote Mobile Developer.",
+		"tags": ["React Native"]
+	},
+	{
+		"time": "Dec 2018 - Present",
+		"title": "Digital Credit LLC",
+		"description": "Full Time Mobile Developer.",
+		"tags": ["React Native", "Veritech ERP", "Oracle Database"]
+	}
+]
