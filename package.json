@@ -5,10 +5,10 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"export": "next build && next export",
+		"export": "next build && cp -r out/* docs/",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "cp -r out/* docs/ && git add docs/ && git commit -m 'Deploy to GitHub Pages' && git push"
+		"deploy": "git add docs/ && git commit -m 'Deploy to GitHub Pages' && git push"
 	},
 	"dependencies": {
 		"@vercel/analytics": "^1.2.2",
