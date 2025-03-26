@@ -8,7 +8,7 @@
 		"export": "next build && cp -r out/* docs/",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "git add docs/ && git commit -m 'Deploy to GitHub Pages' && git push"
+		"deploy": "git add docs/ && git commit -m 'DeploytoGitHubPages' && git push"
 	},
 	"dependencies": {
 		"@vercel/analytics": "^1.2.2",
