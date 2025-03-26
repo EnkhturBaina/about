@@ -4,8 +4,8 @@ const nextConfig = {
 	images: {
 		unoptimized: true // GitHub Pages-д зургуудыг зөв харуулах
 	},
-	basePath: "/about", // Репогийн нэрийг энд тавина
-	assetPrefix: "/about/",
+	basePath: "/", // Репогийн нэрийг энд тавина
+	assetPrefix: "/",
 	reactStrictMode: true
 };
 
