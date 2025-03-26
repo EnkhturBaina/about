@@ -8,7 +8,7 @@
 		"export": "next build && next export",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "npm run export && gh-pages -d out"
+		"deploy": "cp -r out/* docs/ && git add docs/ && git commit -m 'Deploy to GitHub Pages' && git push"
 	},
 	"dependencies": {
 		"@vercel/analytics": "^1.2.2",
