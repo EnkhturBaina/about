@@ -27,7 +27,7 @@ function PageLayout({ children }) {
 							<div className="pt-24 lg:w-1/2 lg:py-24 flex flex-col">
 								<div className="flex-1">{children}</div>
 
-								<Footer />
+								{/* <Footer /> */}
 							</div>
 						</div>
 					</div>
