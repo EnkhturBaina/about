@@ -8,7 +8,7 @@
 		"export": "next export",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "next build && next export && gh-pages -d out"
+		"deploy": "next build && gh-pages -d out"
 	},
 	"dependencies": {
 		"@vercel/analytics": "^1.2.2",
