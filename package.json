@@ -1,5 +1,5 @@
 {
-	"name": "portfoilo-2023",
+	"name": "about",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
@@ -8,7 +8,7 @@
 		"export": "next export",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "npm run build && npm run export && mv out docs && git add . && git commit -m \"Deploy to GitHub Pages\" && git push origin main"
+		"deploy": "next build && next export && gh-pages -d out"
 	},
 	"dependencies": {
 		"@vercel/analytics": "^1.2.2",
