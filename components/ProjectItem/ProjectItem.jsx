@@ -42,6 +42,7 @@ function ProjectItem({ thumbnail, title, description, tags, demo, ios, android }
 							<a
 								className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 mr-1.5"
 								href={android ? android : "#"}
+								target="_blank"
 							>
 								<PlayStoreIcon style={{ height: 18, width: 18, marginRight: 5 }} />
 								<span>Android</span>
@@ -51,6 +52,7 @@ function ProjectItem({ thumbnail, title, description, tags, demo, ios, android }
 							<a
 								className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
 								href={ios ? ios : "#"}
+								target="_blank"
 							>
 								<AppStoreIcon style={{ height: 18, width: 18, marginRight: 5 }} />
 								<span>IOS</span>
