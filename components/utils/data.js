@@ -1,28 +1,108 @@
 export const projects = [
 	{
-		thumbnail: "https://img.money.com/2023/06/Explainer-Write-Resume.jpg?quality=85",
-		title: "Resume Builder",
-		description:
-			"Introducing our revolutionary Resume Builder App. Craft professional resumes effortlessly with sleek templates and seamless customization. Say hello to streamlined job applications and unlock new career opportunities. Get started today.",
-		tags: ["CSS", "TailwindCSS", "React", "JavaScript", "React PDF"],
-		demo: "https://resumemate.vercel.app/"
+		thumbnail: "about/images/talentMn.png",
+		title: "Talent MN",
+		description: "Talent HRMS - a comprehensive human resources management platform",
+		tags: ["React Native"],
+		demo: "https://info.talent.mn/",
+		ios: "https://apps.apple.com/mn/app/talentmn/id1671389683",
+		android: "https://play.google.com/store/apps/details?id=com.gamemine.talent&pli=1"
 	},
 	{
-		thumbnail: "https://raw.githubusercontent.com/fortoszone/resource/main/MovieDB/MovieDB-Header%20image.png",
-		title: "Movie Database App",
+		thumbnail: "about/images/zeelme.jpg",
+		title: "Zeelme",
 		description:
-			"Introducing Movie Database Application – your ultimate destination for all things cinema! Dive into a world of cinematic wonders with our user-friendly and feature-packed app designed for movie enthusiasts and casual viewers alike.",
-		tags: ["CSS", "SCSS", "React", "JavaScript", "Axios"],
-		demo: "https://movieflix.rojab.me/"
+			"ZEELME is a Mongolian financial platform that aggregates various loan products from multiple banks and non-bank financial institutions (NBFIs), offering users a convenient way to compare and select loans that best suit their needs.",
+		tags: ["React Native"],
+		demo: "https://zeelme.mn/",
+		ios: "https://apps.apple.com/mn/app/zeelme/id6443712232",
+		android: "https://play.google.com/store/apps/details?id=com.zeelme.app&hl=en"
 	},
 	{
-		thumbnail:
-			"https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2018/06/05172502/050618readerscafe_01.jpg",
-		title: "Readers Cafe",
+		thumbnail: "about/images/autohuleg.png",
+		title: "Autohuleg",
 		description:
-			"Welcome to the ultimate digital haven for coffee connoisseurs and bookworms alike – our innovative web application seamlessly blending the rich aromas of a cozy coffee shop with the captivating world of literature.",
-		tags: ["Next Js", "Next Auth", "Redux Toolkit", "RTK Query", "TypeScript", "Ant Design", "Tailwind"],
-		demo: "https://readers-cafe.rojab.me/"
+			"autohuleg.mn is the largest auto market with a wide selection of cars and online leasing. In addition to buying and selling cars on autohuleg.mn, users can also lease cars online directly or with advance reservation.",
+		tags: ["React Native"],
+		demo: "https://autohuleg.mn/",
+		ios: "https://apps.apple.com/mn/app/autohuleg/id6444358242",
+		android: "https://play.google.com/store/apps/details?id=com.autohuleg.app"
+	},
+	{
+		thumbnail: "about/images/hubStar.png",
+		title: "HubStar",
+		description:
+			"The HUB STAR platform, which unites construction industry participants such as clients, contractors, suppliers, machinery owners, and transportation services, will solve the complex challenges faced by modern construction projects by improving communication, collaboration, efficiency, and decision-making capabilities.",
+		tags: ["React Native"],
+		demo: "https://hubstar.mn/",
+		ios: "https://apps.apple.com/us/app/hubstar/id6482290509",
+		android: "https://play.google.com/store/apps/details?id=com.hubstar.app&hl=en"
+	},
+	{
+		thumbnail: "about/images/eMerged.png",
+		title: "e-Merged",
+		description: "English-Russian-Mongolian dictionary of medical terminology and terms",
+		tags: ["React Native"],
+		demo: "",
+		ios: "https://apps.apple.com/us/app/e-merged/id1641489895",
+		android: "https://play.google.com/store/apps/details?id=com.merged.app&hl=en"
+	},
+	{
+		thumbnail: "about/images/iHospital.png",
+		title: "iHospital.mn Cloud Hospital",
+		description:
+			"With the iHospital app, users can connect with their chosen professional counselors and coaches via chat or video call to get online advice on healthy eating, exercise, and a healthy lifestyle. Users can also read various advice prepared by professional counselors and coaches for free on the iHospital app blog. Specialists and coaches can enter the available days, times, and service fees themselves.",
+		tags: ["React Native"],
+		demo: "https://ihospital.mn/",
+		ios: "https://apps.apple.com/us/app/ihospital-mn-cloud-hospital/id6448801282",
+		android: ""
+	},
+	{
+		thumbnail: "about/images/iWash.png",
+		title: "iWash",
+		description:
+			"Ажилчдын бүртгэл хяналт: Ажилчдын мэдээллийг бүртгэж, тэдний үйл ажиллагааг хянах боломжийг олгодог.​ Үйлчилгээний бүртгэл: Үйлчлүүлэгчдийн үйлчилгээний мэдээллийг бүртгэж, удирдах боломжтой. Тайлан баланс: Үйл ажиллагааны тайлан, санхүүгийн балансыг хянах, удирдах боломжийг олгодог.",
+		tags: ["React Native"],
+		demo: "",
+		ios: "https://apps.apple.com/mn/app/iwash-gurensoft/id6737464086",
+		android: "https://play.google.com/store/apps/details?id=com.guren.iwash"
+	},
+	{
+		thumbnail: "about/images/playFleet.png",
+		title: "Play Fleet",
+		description:
+			"Play Fleet is a smart dispatch system for tracking truck cycles, standby, delays, maintenance, fuel usage, and more—boosting fleet efficiency in real time. Play Fleet is an advanced dispatch and fleet management system that tracks and optimizes operations. The app registers truck cycles, including key sub-states like loading, hauling, dumping, and queueing. It also provides real-time location tracking, standby and delay logging, maintenance scheduling, Start and Finish SMU readings, and fuel usage registration. Play Fleet ensures seamless fleet monitoring, helping businesses reduce downtime and improve efficiency. Download now to take full control of your fleet operations!",
+		tags: ["React Native"],
+		demo: "https://apps.talent.mn/",
+		ios: "https://apps.apple.com/mn/app/play-fleet/id6741881715",
+		android: "https://play.google.com/store/apps/details?id=com.gamemine.fleet&hl=en"
+	},
+	{
+		thumbnail: "about/images/eMalchin.png",
+		title: "e-Malchin",
+		description:
+			"The project aims to implement a digital network platform of the supply chain in the meat value chain, in line with international standards. In the case of the meat production and meat value chain- the establishment of cooperation and trust between herders and feedlots and end-consumers product supply without extra steps in the chain have a significant impact. By implementing the e-malchin platform and with the assistance of the mobile application, we will improve the cooperation between the herders of Tarialan soum, Khuvsgul province and feedlot , ensure participation of value chain stakeholder, and supply end-consumers with high-quality meat products. In establishing trust and cooperation between the herders and feedlot will use the cooperative’s system and cattle weight gain incentive system for stocks supplied by herders to the feedlot.",
+		tags: ["React Native"],
+		demo: "",
+		ios: "https://apps.apple.com/mn/app/e-malchin/id6738379295",
+		android: "https://play.google.com/store/apps/details?id=com.emalchin.app&hl=en"
+	},
+	{
+		thumbnail: "about/images/iBalance.png",
+		title: "iBalance",
+		description:
+			"An app for corporate management and a management program designed to track daily financial activities and accounts receivable and payable balances.",
+		tags: ["React Native"],
+		demo: ""
+	},
+	{
+		thumbnail: "about/images/sbd.png",
+		title: "E-Duureg",
+		description: "This is a smartphone version of the sbd.gov.mn website.",
+		tags: ["React Native"],
+		demo: "https://sbd.gov.mn/",
+		ios: "https://apps.apple.com/mn/app/e-duureg/id6443556665",
+		android: "https://play.google.com/store/apps/details?id=com.eduureg.app"
 	}
 ];
 
